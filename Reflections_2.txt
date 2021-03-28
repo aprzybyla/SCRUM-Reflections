@@ -1,0 +1,1 @@
+TDD to technika tworzenia oprogramowania polegająca na ciągłym testowaniu kodu, nawet gdy wiemy, że będzie zawierał błędy
